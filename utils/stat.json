@@ -1,0 +1,33 @@
+{
+	"sent": {
+		"chat": 27229,
+		"sticker": 16826,
+		"notification_template": 155,
+		"image": 10442,
+		"e2e_notification": 3272,
+		"gp2": 10174,
+		"video": 423,
+		"document": 23,
+		"vcard": 267,
+		"ptt": 3907,
+		"audio": 2
+	},
+	"receive": {
+		"chat": 184242,
+		"image": 19456,
+		"sticker": 30738,
+		"ptt": 14849,
+		"video": 9639,
+		"ciphertext": 299,
+		"document": 41,
+		"audio": 728,
+		"vcard": 70,
+		"location": 33,
+		"template": 1,
+		"call_log": 40,
+		"oversized": 160,
+		"multi_vcard": 14,
+		"groups_v4_invite": 138,
+		"product": 1
+	}
+}
